@@ -1,9 +1,9 @@
 {
-  "name": "react-chessboard",
+  "name": "cbi-chessboard",
   "version": "4.7.2",
-  "description": "The React Chessboard Library used at ChessOpenings.co.uk. Inspired and adapted from the unmaintained Chessboard.jsx.",
-  "author": "Ryan Gregory <ryangregory.dev@outlook.com>",
-  "repository": "https://github.com/Clariity/react-chessboard",
+  "description": "Official Chessboard for ChessBase India based on react-chessboard",
+  "author": "ChessBase India <chessbaseindiatech@gmail.com>",
+  "repository": "https://github.com/ChessBase-India/cbi-chessboard",
   "license": "MIT",
   "main": "dist/index.js",
   "module": "dist/index.esm.js",
